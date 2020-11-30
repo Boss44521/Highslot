@@ -1,4 +1,24 @@
-body{
-    background: linear-gradient(180deg, #FD3E6A 0%, rgba(98, 71, 133, 0.640625) 99.97%, rgba(92, 89, 150, 0.534042) 99.98%, rgba(90, 94, 155, 0.505757) 99.99%, rgba(59, 178, 237, 0) 100%);
+nav{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: linear-gradient(180deg, #FD3E6A 0%, rgba(98, 71, 133, 0.640625));
+}
 
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: linear-gradient(180deg, #FD3E6A 0%, rgba(98, 71, 133, 0.640625));
+
+}
+.row {
+    margin-top: auto;
+    align-items: center;
+    justify-content: center;
 }
